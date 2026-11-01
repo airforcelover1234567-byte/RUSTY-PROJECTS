@@ -1,0 +1,4 @@
+    Checking Guessing_Game v0.1.0 (/home/rounak/Rust/Guessing_Game)
+error: could not compile `Guessing_Game` (bin "Guessing_Game" test) due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `Guessing_Game` (bin "Guessing_Game") due to 1 previous error
