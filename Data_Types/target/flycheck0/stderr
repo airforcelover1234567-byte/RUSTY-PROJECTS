@@ -1,0 +1,3 @@
+    Checking Data_Types v0.1.0 (/home/rounak/Rust/Data_Types)
+error: could not compile `Data_Types` (bin "Data_Types") due to 1 previous error
+warning: build failed, waiting for other jobs to finish...

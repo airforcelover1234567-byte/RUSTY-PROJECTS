@@ -5,7 +5,7 @@ use std::io;
 fn main() {
     let secret_number = rand::rng().random_range(1..=100);
     println!("Guess the Number");
-
+    let tries=5;
     loop {
         println!("Please input your guess:");
         let mut guess = String::new();
