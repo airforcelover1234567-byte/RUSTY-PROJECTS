@@ -1,7 +1,7 @@
 use std::io;
 
 fn main() {
-    let array = [1, 2, 3, 4, 5, 6, 7, 8];
+    let array: [i32; 8] = [1, 2, 3, 4, 5, 6, 7, 8];
     println!("The values of the array are [1,2,3,4,5,6,7,8]");
 
     let mut input = String::new();
