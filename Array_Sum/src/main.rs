@@ -3,8 +3,6 @@ use std::io;
 fn main() {
     let mut target = String::new();
     let array: [i32; 9] = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-    // let i: u32 = 0;
-    // let j:u32=0;
 
     println!("Enter the target: ");
     io::stdin().read_line(&mut target).expect("Failed");
